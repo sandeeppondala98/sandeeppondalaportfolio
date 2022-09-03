@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sandeeppondalaportfolio/static/css/main.8364a133.css",
-    "main.js": "/sandeeppondalaportfolio/static/js/main.1c27dc0a.js",
+    "main.js": "/sandeeppondalaportfolio/static/js/main.ad70d984.js",
     "static/js/787.128fc6e9.chunk.js": "/sandeeppondalaportfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/tejapollavarapu.jpg": "/sandeeppondalaportfolio/static/media/tejapollavarapu.5400e18e3ecf6db30e33.jpg",
     "static/media/sanheader101.png": "/sandeeppondalaportfolio/static/media/sanheader101.953b17d12ba75d137037.png",
@@ -25,11 +25,11 @@
     "static/media/Parcel-Transportation-Management-Service.jpg": "/sandeeppondalaportfolio/static/media/Parcel-Transportation-Management-Service.d7108cd25a70f9dcb670.jpg",
     "index.html": "/sandeeppondalaportfolio/index.html",
     "main.8364a133.css.map": "/sandeeppondalaportfolio/static/css/main.8364a133.css.map",
-    "main.1c27dc0a.js.map": "/sandeeppondalaportfolio/static/js/main.1c27dc0a.js.map",
+    "main.ad70d984.js.map": "/sandeeppondalaportfolio/static/js/main.ad70d984.js.map",
     "787.128fc6e9.chunk.js.map": "/sandeeppondalaportfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8364a133.css",
-    "static/js/main.1c27dc0a.js"
+    "static/js/main.ad70d984.js"
   ]
 }
