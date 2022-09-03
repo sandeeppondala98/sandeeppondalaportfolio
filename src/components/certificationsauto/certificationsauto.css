@@ -1,0 +1,24 @@
+.certificatesauto__container{
+    padding-top: 2rem;
+}
+.certificateauto__item-image{
+    object-fit: fill !important;
+    aspect-ratio: 3/2 !important ;
+    border-radius: 1rem;
+    border:1px solid var(--color-primary-variant) !important;
+}
+
+.certificateauto__item{
+    background: var(--color-bg-variant);
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border:1px solid var(--color-primary-variant) !important;
+    justify-content: center !important ;;
+    align-items: center !important ;;
+    transition:var(--transition);
+}
+
+.certificateauto__item h2{
+    text-align: center;
+    padding-top: 0.2rem;
+}

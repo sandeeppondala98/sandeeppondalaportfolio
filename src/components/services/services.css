@@ -1,0 +1,39 @@
+Services2{
+    position: relative;
+    width:60% !important;
+    min-height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2196f3;
+    overflow: hidden;
+}
+
+/* .servicesMainSwipper{
+   
+} */
+
+.servicesMainSwipper__item{
+    width: 80% ;
+    background: transparent;
+    border-radius: 2rem;
+    border:1px solid transparent;
+    transition:var(--transition);
+    text-align: center;
+}
+
+.servicesMainSwipper__item-image{
+    height: 40% !important;
+    aspect-ratio: 2/1 !important ;
+    object-fit: fill !important;
+    border:1px solid #48485a !important;
+    border-radius: 1rem;
+}
+
+.servicesSubSwipper__item-image{
+    height: 40% !important;
+    aspect-ratio: 2/1 !important ;
+    object-fit: fill !important;
+    border:1px solid #48485a !important;
+    border-radius: 1rem;
+}

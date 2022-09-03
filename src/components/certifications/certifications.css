@@ -1,0 +1,25 @@
+.certifications__container {
+   background: red;
+   padding: 1rem 0rem 1rem 0rem ;
+   width: 60%;
+
+    
+}
+
+.certifications__item:hover {
+    background: green;
+}
+
+.certifications__item{
+    background: green;
+}
+
+.certifications__item-image{
+   background: green;
+}
+
+.certifications__item-image1{
+    background: green;
+     height: 50%;
+     overflow-y: scroll;
+ }
