@@ -22,7 +22,10 @@ const Testimonials = () => {
         className="container testimonials__container"
         modules={[Pagination, Autoplay]}
         spaceBetween={40}
-        slidesPerView={2}
+        breakpoints={{
+          640: { slidesPerView: 2 },
+        }}
+        slidesPerView={1}
         //pagination={{ clickable: true }}
         pagination={{
           type: "progressbar",
