@@ -33,19 +33,19 @@ const data = [
   },
   {
     avatar: Avt4,
-    name: "Machine Learning",
+    name: "Machine Learning By IIT Kharagpur",
     review:
       "Modi alias Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur sit voluptatem error illum placeat nihil saepe voluptas omnis, iusto, voluptatum fugiat iure veniam! Nesciunt amet cum rem, nisi beatae odit.",
   },
   {
     avatar: Avt5,
-    name: "DBMS",
+    name: "DBMS By IIT Kharagpur",
     review:
       "Modi alias Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur sit voluptatem error illum placeat nihil saepe voluptas omnis, iusto, voluptatum fugiat iure veniam! Nesciunt amet cum rem, nisi beatae odit.",
   },
   {
     avatar: Avt6,
-    name: "Python",
+    name: "Python By IIT Madras (Chennai)",
     review:
       "Modi alias Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur sit voluptatem error illum placeat nihil saepe voluptas omnis, iusto, voluptatum fugiat iure veniam! Nesciunt amet cum rem, nisi beatae odit.",
   },

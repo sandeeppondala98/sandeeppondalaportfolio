@@ -17,7 +17,7 @@ const Testimonials = () => {
   return (
     <section id="testimonials">
       <h5>complements from my</h5>
-      <h2>Colleagues and Team mates</h2>
+      <h2>Colleagues</h2>
       <Swiper
         className="container testimonials__container"
         modules={[Pagination, Autoplay]}

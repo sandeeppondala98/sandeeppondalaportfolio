@@ -29,7 +29,7 @@ const Certificationsautodisabled = () => {
         navigation={true}
         thumbs={{ swiper: thumbsSwiper }}
         modules={[FreeMode, Navigation, Thumbs]}
-        className="container mySwiper2 certificatesautodisbledMainSwipper "
+        className="mySwiper2 certificatesautodisbledMainSwipper "
         pagination={{
           type: "progressbar",
         }}
@@ -58,7 +58,7 @@ const Certificationsautodisabled = () => {
         freeMode={true}
         watchSlidesProgress={true}
         modules={[FreeMode, Navigation, Thumbs]}
-        className="container mySwiper certificatesautodisbledMainSwipper"
+        className="mySwiper certificatesautodisbledSubSwipper"
       >
         {data.map((c, index) => {
           return (

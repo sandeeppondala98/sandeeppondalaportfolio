@@ -22,3 +22,32 @@
     text-align: center;
     padding-top: 0.2rem;
 }
+
+/*===========================mediaqueries================*/
+@media screen and (max-width:1024px ) {
+   
+}
+
+
+@media screen and (max-width:600px ) {
+
+    .certificateauto__item{
+        
+        border-radius: 0.1rem;
+       
+        justify-content: center !important ;;
+        align-items: center !important ;;
+        transition:var(--transition);
+    }
+    .certificateauto__item-image{
+        width: 100%;
+    }
+
+    .certificateauto__item h2{
+        font-size: 0.9rem;
+        text-align: center;
+        padding-top: 0.2rem;
+    }
+    
+
+}

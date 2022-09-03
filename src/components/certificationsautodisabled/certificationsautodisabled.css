@@ -12,6 +12,9 @@
 .certificatesautodisbledMainSwipper{
     width: 90% ;
 }
+.certificatesautodisbledSubSwipper{
+    width: 90%;
+}
 
 .certificatesautodisbledMainSwipper__item{
     width: 80% ;
@@ -36,4 +39,37 @@
     object-fit: fill !important;
     border:1px solid #48485a !important;
     border-radius: 1rem;
+}
+
+
+/*===========================mediaqueries================*/
+@media screen and (max-width:1024px ) {
+    .certificatesautodisbledMainSwipper{
+        width: 100% ;
+    }
+    .certificatesautodisbledSubSwipper{
+        width: 100%;
+    }
+}
+@media screen and (max-width:600px ) {
+    .certificatesautodisbledMainSwipper{
+        width: 100% ;
+    }
+    .certificatesautodisbledSubSwipper{
+        width: 100%;
+    }
+
+    .certificatesautodisbledMainSwipper__item-image{
+       
+        border:0.2px solid #48485a !important;
+        border-radius: 0.2rem;
+    }
+
+    .certificatesautodisbledSubSwipper__item-image{
+       
+        border:0.2px solid #48485a !important;
+        border-radius: 0.2rem;
+    }
+    
+
 }
