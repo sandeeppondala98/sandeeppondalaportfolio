@@ -12,9 +12,6 @@
     border: 0.4rem solid var(--color-primary-variant);
 }
 
-.client__avatar img{
-    width:auto !important;
-}
 
 .testimonial{
     background: var(--color-bg-variant);
