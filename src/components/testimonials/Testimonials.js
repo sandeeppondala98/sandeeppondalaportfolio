@@ -40,12 +40,7 @@ const Testimonials = () => {
               </div>
               <h4 className="client__name">{d.name}</h4>
               {/* <h6>{d.designation}</h6> */}
-              <small className="client__review">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Tempore omnis aliquid ducimus id dolore corrupti tenetur
-                pariatur doloremque porro quasi ea error aperiam dolor,
-                assumenda odit eius, nam, cupiditate repellendus.
-              </small>
+              <small className="client__review">{d.review}</small>
             </SwiperSlide>
           );
         })}
