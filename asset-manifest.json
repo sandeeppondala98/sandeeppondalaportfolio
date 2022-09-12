@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sandeeppondalaportfolio/static/css/main.f9b82f95.css",
-    "main.js": "/sandeeppondalaportfolio/static/js/main.2c3cee7c.js",
+    "main.css": "/sandeeppondalaportfolio/static/css/main.50946b38.css",
+    "main.js": "/sandeeppondalaportfolio/static/js/main.48cec35d.js",
     "static/js/787.128fc6e9.chunk.js": "/sandeeppondalaportfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/tejapollavarapu.jpg": "/sandeeppondalaportfolio/static/media/tejapollavarapu.5400e18e3ecf6db30e33.jpg",
     "static/media/sanheader101.png": "/sandeeppondalaportfolio/static/media/sanheader101.953b17d12ba75d137037.png",
@@ -18,18 +18,18 @@
     "static/media/Sentiment-Analysis-5.jpg": "/sandeeppondalaportfolio/static/media/Sentiment-Analysis-5.1a31308fb8086dfc319d.jpg",
     "static/media/Tweetbot.jpg": "/sandeeppondalaportfolio/static/media/Tweetbot.05a6abe6fea71b0cf9f6.jpg",
     "static/media/bc3.jpg": "/sandeeppondalaportfolio/static/media/bc3.9dccfa2d6e3264ae3fba.jpg",
+    "static/media/srisuma.jpg": "/sandeeppondalaportfolio/static/media/srisuma.a4ba5c4138cd9d83000e.jpg",
     "static/media/viraj.jpg": "/sandeeppondalaportfolio/static/media/viraj.abff3edf944a6db9cfff.jpg",
     "static/media/rahul.jpg": "/sandeeppondalaportfolio/static/media/rahul.7230c4a21c28cc4cfe89.jpg",
-    "static/media/srisuma.jpg": "/sandeeppondalaportfolio/static/media/srisuma.401e9b8709823fa33c5b.jpg",
     "static/media/portfolio4.jpg": "/sandeeppondalaportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/Parcel-Transportation-Management-Service.jpg": "/sandeeppondalaportfolio/static/media/Parcel-Transportation-Management-Service.d7108cd25a70f9dcb670.jpg",
     "index.html": "/sandeeppondalaportfolio/index.html",
-    "main.f9b82f95.css.map": "/sandeeppondalaportfolio/static/css/main.f9b82f95.css.map",
-    "main.2c3cee7c.js.map": "/sandeeppondalaportfolio/static/js/main.2c3cee7c.js.map",
+    "main.50946b38.css.map": "/sandeeppondalaportfolio/static/css/main.50946b38.css.map",
+    "main.48cec35d.js.map": "/sandeeppondalaportfolio/static/js/main.48cec35d.js.map",
     "787.128fc6e9.chunk.js.map": "/sandeeppondalaportfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9b82f95.css",
-    "static/js/main.2c3cee7c.js"
+    "static/css/main.50946b38.css",
+    "static/js/main.48cec35d.js"
   ]
 }
